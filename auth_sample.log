@@ -1,0 +1,9 @@
+2026-10-06 10:14:02 INFO Accepted password for admin from 192.168.1.10 port 50432 ssh2
+2026-10-06 10:15:30 INFO User sarah logged out
+2026-10-06 10:20:11 WARN Failed password for invalid user root from 203.0.113.45 port 39120
+2026-10-06 10:20:12 WARN Failed password for invalid user admin from 203.0.113.45 port 39121
+2026-10-06 10:20:13 WARN Failed password for invalid user test from 203.0.113.45 port 39122
+2026-10-06 10:20:14 WARN Failed password for invalid user guest from 203.0.113.45 port 39123
+2026-10-06 10:20:15 WARN Failed password for invalid user ubuntu from 203.0.113.45 port 39124
+2026-10-06 10:25:00 INFO Connection from 198.51.100.12: GET /login.php?user=admin' OR '1'='1 HTTP/1.1 200
+2026-10-06 10:28:44 INFO Accepted publickey for backup_service from 10.0.0.5 port 44321
